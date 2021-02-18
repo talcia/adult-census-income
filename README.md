@@ -15,17 +15,17 @@ Baza danych Adult Census income stworzona została przez Ronny’ego Kohavi’eg
 Zawiera 48842 rekordy oraz 14 poszczególnych kolumn:
 1. Kolumna: age
 
-  min: 17, max: 90
+    min: 17, max: 90
 
-  średnia: 38.64
+    średnia: 38.64
 
-  brakujące dane: 0.0%
+    brakujące dane: 0.0%
 
 ![column1](https://github.com/talcia/adult-census-income/blob/main/assets/age.png)
 
 2. Kolumna: workclass
 
-  brakujące dane: 0.057%
+      brakujące dane: 0.057%
 
 ![column2](https://github.com/talcia/adult-census-income/blob/main/assets/workclass.png)
 
