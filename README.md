@@ -93,7 +93,7 @@ min: 0, max: 999999
 
 brakujące dane: 0.0%
 
-![column11](https://github.com/talcia/adult-census-income/blob/main/assets/capital-gain.png)
+![column11](https://github.com/talcia/adult-census-income/blob/main/assets/capitalgain.png)
 
 12. Kolumna: capital-loss
 
@@ -103,7 +103,7 @@ min: 0, max: 4356
 
 brakujące dane: 0.0%
 
-![column12](https://github.com/talcia/adult-census-income/blob/main/assets/capital-loss.png)
+![column12](https://github.com/talcia/adult-census-income/blob/main/assets/capitalloss.png)
 
 13. Kolumna: house per week
 
@@ -113,7 +113,7 @@ min: 1, max: 99
 
 brakujące dane: 0.0%
 
-![column13](https://github.com/talcia/adult-census-income/blob/main/assets/house per week.png)
+![column13](https://github.com/talcia/adult-census-income/blob/main/assets/houseperweek.png)
 
 14. Kolumna: native-country
 
