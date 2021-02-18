@@ -1,5 +1,7 @@
 # Projekt
 
+
+
 ## Spis treści
 
 -   Opis projektu
@@ -14,68 +16,82 @@ Zawiera 48842 rekordy oraz 14 poszczególnych kolumn:
 min: 17, max: 90
 średnia: 38.64
 brakujące dane: 0.0%
+
 ![column1]()
 
 2. Kolumna: workclass
 brakujące dane: 0.057%
+
 ![column2]()
 
 3. Kolumna: fnlwgt
 min: 12285, max: 1490400
 średnia: 189664,14
 brakujące dane: 0.0%
+
 ![column3]()
 
 4. Kolumna: education
 brakujące dane: 0.0%
+
 ![column4]()
 
 5. Kolumna: education-num
 min: 1, max: 16
 średnia: 10.08
 brakujące dane: 0.0%
+
 ![column5]()
 
 6. Kolumna: martial-status
 brakujące dane: 0.0%
+
 ![column6]()
 
 7. Kolumna: occupation
 brakujące dane: 0.056%
+
 ![column7]()
 
 8. Kolumna: relationship
 brakujące dane: 0.0%
+
 ![column8]()
 
 9. Kolumna: race
 brakujące dane: 0.0%
+
 ![column9]()
 
 10. Kolumna: sex
 brakujące dane: 0.0%
+
 ![column10]()
 
 11. Kolumna: capital-gain
 min: 0, max: 999999
 średnia: 1079,07
 brakujące dane: 0.0%
+
 ![column11]()
 
 12. Kolumna: capital-loss
 min: 0, max: 4356
 średnia: 1079,07
 brakujące dane: 0.0%
+
 ![column12]()
 
 13. Kolumna: house per week
 min: 1, max: 99
 średnia: 40.42
 brakujące dane: 0.0%
+
 ![column13]()
 
 14. Kolumna: native-country
 brakujące dane: 0.018%
+
 ![column14]()
 
 Wiersze zawierające brakujące dane zostały usunięte. Po ich usunięciu w bazie danychznajdowało się 46033 rekordów.
@@ -97,9 +113,13 @@ jeśli tak 0 jeśli nie), stanie cywilnym oraz rasie zostały zamienione na wart
 zapisując 1 jako wartość częściej występująca oraz 0 jako druga wartość.
 
 ### Informacje o kolumnach po modyfikacjach:
+
 ![column2]()
+
 ![column7]()
+
 ![column6]()
+
 ![column9]()
 
 ## Porównanie poznanych klasyfikatorów
