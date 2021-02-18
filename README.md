@@ -17,7 +17,7 @@ min: 17, max: 90
 średnia: 38.64
 brakujące dane: 0.0%
 
-![column1]()
+![column1](https://github.com/talcia/adult-census-income/blob/main/assets/age.png)
 
 2. Kolumna: workclass
 brakujące dane: 0.057%
