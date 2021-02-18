@@ -15,109 +15,109 @@ Baza danych Adult Census income stworzona została przez Ronny’ego Kohavi’eg
 Zawiera 48842 rekordy oraz 14 poszczególnych kolumn:
 1. Kolumna: age
 
-min: 17, max: 90
+  min: 17, max: 90
 
-średnia: 38.64
+  średnia: 38.64
 
-brakujące dane: 0.0%
+  brakujące dane: 0.0%
 
 ![column1](https://github.com/talcia/adult-census-income/blob/main/assets/age.png)
 
 2. Kolumna: workclass
 
-brakujące dane: 0.057%
+  brakujące dane: 0.057%
 
 ![column2](https://github.com/talcia/adult-census-income/blob/main/assets/workclass.png)
 
 3. Kolumna: fnlwgt
 
-min: 12285, max: 1490400
+  min: 12285, max: 1490400
 
-średnia: 189664,14
+  średnia: 189664,14
 
-brakujące dane: 0.0%
+  brakujące dane: 0.0%
 
 ![column3](https://github.com/talcia/adult-census-income/blob/main/assets/fnlwgt.png)
 
 4. Kolumna: education
 
-brakujące dane: 0.0%
+  brakujące dane: 0.0%
 
 ![column4](https://github.com/talcia/adult-census-income/blob/main/assets/education.png)
 
 5. Kolumna: education-num
 
-min: 1, max: 16
+  min: 1, max: 16
 
-średnia: 10.08
+  średnia: 10.08
 
-brakujące dane: 0.0%
+  brakujące dane: 0.0%
 
-![column5](https://github.com/talcia/adult-census-income/blob/main/assets/education-num.png)
+![column5](https://github.com/talcia/adult-census-income/blob/main/assets/education_num.png)
 
 6. Kolumna: martial-status
 
-brakujące dane: 0.0%
+  brakujące dane: 0.0%
 
-![column6](https://github.com/talcia/adult-census-income/blob/main/assets/martial-status.png)
+![column6](https://github.com/talcia/adult-census-income/blob/main/assets/marital-status.png)
 
 7. Kolumna: occupation
 
-brakujące dane: 0.056%
+  brakujące dane: 0.056%
 
 ![column7](https://github.com/talcia/adult-census-income/blob/main/assets/occupation.png)
 
 8. Kolumna: relationship
 
-brakujące dane: 0.0%
+  brakujące dane: 0.0%
 
 ![column8](https://github.com/talcia/adult-census-income/blob/main/assets/relationship.png)
 
 9. Kolumna: race
 
-brakujące dane: 0.0%
+  brakujące dane: 0.0%
 
 ![column9](https://github.com/talcia/adult-census-income/blob/main/assets/race.png)
 
 10. Kolumna: sex
 
-brakujące dane: 0.0%
+  brakujące dane: 0.0%
 
 ![column10](https://github.com/talcia/adult-census-income/blob/main/assets/sex.png)
 
 11. Kolumna: capital-gain
 
-min: 0, max: 999999
+  min: 0, max: 999999
 
-średnia: 1079,07
+  średnia: 1079,07
 
-brakujące dane: 0.0%
+  brakujące dane: 0.0%
 
 ![column11](https://github.com/talcia/adult-census-income/blob/main/assets/capitalgain.png)
 
 12. Kolumna: capital-loss
 
-min: 0, max: 4356
+  min: 0, max: 4356
 
-średnia: 1079,07
+  średnia: 1079,07
 
-brakujące dane: 0.0%
+  brakujące dane: 0.0%
 
 ![column12](https://github.com/talcia/adult-census-income/blob/main/assets/capitalloss.png)
 
-13. Kolumna: house per week
+13. Kolumna: hours per week
 
-min: 1, max: 99
+  min: 1, max: 99
 
-średnia: 40.42
+  średnia: 40.42
 
-brakujące dane: 0.0%
+  brakujące dane: 0.0%
 
-![column13](https://github.com/talcia/adult-census-income/blob/main/assets/houseperweek.png)
+![column13](https://github.com/talcia/adult-census-income/blob/main/assets/hoursperweek.png)
 
 14. Kolumna: native-country
 
-brakujące dane: 0.018%
+  brakujące dane: 0.018%
 
 ![column14](https://github.com/talcia/adult-census-income/blob/main/assets/native-country.png)
 
@@ -145,7 +145,7 @@ zapisując 1 jako wartość częściej występująca oraz 0 jako druga wartość
 
 ![column7](https://github.com/talcia/adult-census-income/blob/main/assets/occupation2.png)
 
-![column6](https://github.com/talcia/adult-census-income/blob/main/assets/martial-status2.png)
+![column6](https://github.com/talcia/adult-census-income/blob/main/assets/marital-status2.png)
 
 ![column9](https://github.com/talcia/adult-census-income/blob/main/assets/race2.png)
 
